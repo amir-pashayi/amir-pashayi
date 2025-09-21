@@ -26,14 +26,8 @@ That’s changing now: I’m sharpening my **backend development** skills with a
 
 ---
 
-### 🔁 How I Work
 
-I believe in structure and consistency.  
-I plan my days ahead, stay organized, and try to move forward step by step — even when progress is slow, I keep showing up.
-
----
 
 ### 📬 Contact Me
 
 amir.pasha.dev@gmail.com  
-[GitHub Profile](https://github.com/amir-pashayi)
